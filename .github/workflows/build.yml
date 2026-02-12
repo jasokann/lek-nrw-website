@@ -34,7 +34,7 @@ jobs:
       - name: Copy content
         run: |
           rm -rf content
-          cp -R content-repo/content ./content
+          cp -R content-repo/ ./
 
       - name: Copy theme
         run: |
