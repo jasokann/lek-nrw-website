@@ -48,7 +48,7 @@ jobs:
       - name: Build Hugo
         run: |
           cd site
-          hugo --minify
+          hugo
 
       # 7. Deployment (GitHub Pages)
       - name: Deploy to GitHub Pages
