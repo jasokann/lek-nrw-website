@@ -35,6 +35,7 @@ jobs:
           rm -rf site/themes/lek-nrw-theme
           mv theme-temp site/themes/lek-nrw-theme
           ls -la site/
+          ls -la site/content/
           ls -la site/themes/
           ls -la site/themes/lek-nrw-theme
 
