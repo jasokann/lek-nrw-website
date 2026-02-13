@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on LEK NRW</title>
+    <link>https://lek-nrw.de/tags/</link>
+    <description>Recent content in Tags on LEK NRW</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Thu, 29 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://lek-nrw.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Demokratie</title>
+      <link>https://lek-nrw.de/tags/demokratie/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lek-nrw.de/tags/demokratie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Erinnerungskultur</title>
+      <link>https://lek-nrw.de/tags/erinnerungskultur/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lek-nrw.de/tags/erinnerungskultur/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gedenktag</title>
+      <link>https://lek-nrw.de/tags/gedenktag/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lek-nrw.de/tags/gedenktag/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vielfalt</title>
+      <link>https://lek-nrw.de/tags/vielfalt/</link>
+      <pubDate>Thu, 29 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://lek-nrw.de/tags/vielfalt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Über Uns</title>
+      <link>https://lek-nrw.de/tags/%C3%BCber-uns/</link>
+      <pubDate>Wed, 14 Jan 2026 01:39:50 +0100</pubDate>
+      <guid>https://lek-nrw.de/tags/%C3%BCber-uns/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

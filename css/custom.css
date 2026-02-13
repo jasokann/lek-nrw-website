@@ -1,0 +1,44 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #cef4be;
+}
+
+.navbar {
+  background-color: #cef4be !important;
+  border-bottom: 1px solid #0000001a;
+}
+
+.main-content {
+  background-color: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px #0000000d;
+}
+
+.hero-logo {
+  max-width: 100%;
+  height: auto;
+  padding: 2rem 0;
+}
+
+footer {
+  background-color: #ffffff;
+  border-top: 1px solid #dee2e6;
+}
+
+.nav-link {
+  color: #000000 !important;
+  font-weight: 600;
+}
+
+.nav-link:hover {
+  color: #138517 !important;
+}
+
+@media (min-width: 992px) {
+    .navbar-nav .dropdown:hover .dropdown-menu {
+        display: block;
+        margin-top: 0; /* Verhindert eine Lücke beim Drüberfahren */
+    }
+}
+
+.seo-hidden { display: none; }
