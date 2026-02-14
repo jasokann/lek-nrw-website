@@ -18,14 +18,14 @@ jobs:
       - name: Checkout content repo
         uses: actions/checkout@v3
         with:
-          repository: jasokann/lek-nrw-content
+          repository: lek-nrw/lek-nrw-content
           path: site
 
       # 3. Theme ins Content-Repo klonen
       - name: Checkout theme repo
         uses: actions/checkout@v3
         with:
-          repository: jasokann/lek-nrw-theme
+          repository: lek-nrw/lek-nrw-theme
           path: theme-temp
 
       # 4. Theme in das richtige Verzeichnis verschieben
