@@ -21,6 +21,7 @@ jobs:
         with:
           repository: lek-nrw/lek-nrw-content
           path: site
+          token: ${{ secrets.WEBSITE_TRIGGER_TOKEN }}
 
       # 3. Theme ins Content-Repo klonen
       - name: Checkout theme repo
@@ -28,6 +29,7 @@ jobs:
         with:
           repository: lek-nrw/lek-nrw-theme
           path: theme-temp
+          token: ${{ secrets.WEBSITE_TRIGGER_TOKEN }}
 
       # 4. Theme in das richtige Verzeichnis verschieben
       - name: Move theme into content repo
